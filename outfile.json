@@ -1,0 +1,12 @@
+{
+    "firstName": "Mila",
+    "lastName": "Fuzzy",
+    "age": 32,
+    "gender": {
+        "male": "unspecified",
+        "female": "female"
+    },
+    "siblingAges": [
+        34
+    ]
+}
